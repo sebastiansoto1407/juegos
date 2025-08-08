@@ -58,7 +58,7 @@ namespace ejemplo1
             Console.WriteLine("\nControles: W=arriba, S=abajo, A=izquierda, D=derecha, +=+10 puntos, Q= salir\n");
             bool jugando = true;
             
-            
+            //guardado
 
 
         }
